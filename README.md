@@ -1,4 +1,4 @@
-### 🚀 Olá! Veja bem-vindo(a) ao meu GitHub! 
+### 🚀 Olá! Sou a Jennifer, seja bem-vindo(a)!
 
 Sou **Analista de Dados** formada, apaixonada por transformar dados em insights valiosos. Tenho experiência com **Excel Avançado, Power BI, Microsoft Automate e Programação Front-End**, e estou sempre buscando aprimorar minhas habilidades em **SQL, Python e visualização de dados**.  
 
