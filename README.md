@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🚀 Olá! Veja bem-vindo(a) ao meu GitHub! 
 
-<!--
-**jenniferfreire/jenniferfreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Analista de Dados** formada, apaixonada por transformar dados em insights valiosos. Tenho experiência com **Excel Avançado, Power BI, Microsoft Automate e Programação Front-End**, e estou sempre buscando aprimorar minhas habilidades em **SQL, Python e visualização de dados**.  
 
-Here are some ideas to get you started:
+Além disso, sou entusiasta da **acessibilidade e inclusão digital**, e acredito que uma tecnologia deve ser uma ferramenta para ampliar oportunidades para todos. Por isso, estudo **Libras** e busco formas de integração acessibilidade ao mundo dos dados. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Aqui você encontrará:**  
+- 📊 **Dashboards interativos e análises com Power BI**  
+- 📂 **Projetos de automação e otimização de processos**  
+- 📈 **Estudos e desafios em SQL e Python**
+  
+💡 **Sempre aberta a aprender e trocar conhecimento! Vamos nos conectar?**  
+
+🔗 [**LinkedIn**](https://www.linkedin.com/in/freire-jennifer/) | 📧 **Entre em contato:** [jennifer.freire@outlook.com]  
